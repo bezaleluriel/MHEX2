@@ -1,9 +1,10 @@
 /******************************************
-* Liron Shurgi
-* 305687253
-* 8923103
+* Uriel Bezalel
+* 304836497
+*
 * Exercise 2
 ******************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
